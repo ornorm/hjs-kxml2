@@ -1,7 +1,7 @@
 # HJS-KXML2
 > KXML2 pull parser classes for the Hubrisjs javascript framework.
 
-kXML2 implementation classes: KXmlParser, KXmlSerializer, KNode, KElement, KDocument.
+KXML2 implementation classes: KXmlParser, KXmlSerializer, KNode, KElement, KDocument.
 
 ## Installation
 
