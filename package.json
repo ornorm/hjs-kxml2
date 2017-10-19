@@ -1,0 +1,30 @@
+{
+  "name": "hjs-kxml2",
+  "version": "1.0.0",
+  "description": "KXML2 pull parser implementation for Hubrisjs framework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/hjs-kxml2.git"
+  },
+  "keywords": [
+    "KXML2"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/hjs-kxml2/issues"
+  },
+  "homepage": "https://github.com/ornorm/hjs-kxml2#readme",
+  "dependencies": {
+    "hjs-core": "^1.0.0",
+    "hjs-io": "^1.0.0",
+    "hjs-xmlpull": "^1.0.0"
+  }
+}
