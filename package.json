@@ -14,7 +14,11 @@
     "url": "git+https://github.com/ornorm/hjs-kxml2.git"
   },
   "keywords": [
-    "KXML2"
+    "KXmlParser",
+    "KXmlSerializer",
+    "KNode",
+    "KElement",
+    "KDocument"
   ],
   "author": "Aime Biendo <abiendo@gmail.com>",
   "license": "MIT",
